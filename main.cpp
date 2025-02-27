@@ -18,7 +18,3 @@ int main() {
     Person::nameCompare(person1, person2);
     Person::birthDayCompare(person1, person2);
 }
-
-// "12", "04", "2006", "Ilias Khusainov Ravilevich", "+89521572583"
-// "23", "02", "2006", "Maria Zima Evgenevna", "+89531462512"
-                
